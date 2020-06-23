@@ -1,7 +1,8 @@
-package org.acme;
+package org.acme.adapters;
+
+import org.acme.app.HelloService;
 
 import javax.inject.Inject;
-import javax.inject.Qualifier;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;

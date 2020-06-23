@@ -1,4 +1,4 @@
-package org.acme;
+package org.acme.app;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;

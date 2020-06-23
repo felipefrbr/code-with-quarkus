@@ -1,4 +1,4 @@
-package org.acme;
+package org.acme.app;
 
 import io.quarkus.arc.config.ConfigProperties;
 
